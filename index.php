@@ -138,4 +138,4 @@
         }
     }
 
-    require_once 'index.html';
+    require 'index.html';
