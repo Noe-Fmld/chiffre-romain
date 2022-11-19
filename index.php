@@ -137,5 +137,3 @@
                 $errorMsg = 'Résultat trop grand !';
         }
     }
-
-    include 'index.html';
